@@ -1,5 +1,7 @@
 # Tua - First Public Preview
 
+https://github.com/fromi9/Tua-Releases/releases/tag/1.0.0-beta.1
+
 Hi! This is the first public release of Tua, a hobby project I've been working on in my spare time.
 
 I originally made it for myself and never really planned to release it. I'm not a programmer, and most of the code was written with the help of AI tools. I've mainly been responsible for the ideas, interface design, testing, and deciding how everything should work.
@@ -152,4 +154,4 @@ If you give it a try, I'd be happy to hear what you think.
 
 Thanks for checking out Tua! 
 
-
+https://github.com/fromi9/Tua-Releases/releases/tag/1.0.0-beta.1
